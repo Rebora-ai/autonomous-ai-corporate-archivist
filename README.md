@@ -7,7 +7,7 @@ A production-ready, enterprise-grade Multi-Document RAG (Retrieval-Augmented Gen
 
 Look at how our local AI engine instantly processes and analyzes an uploaded multi-page construction estimate with 100% data privacy:
 
-*   **Verified Live Model Logic:** [Rebora Docs Framework](https://rentry.co)
+*   **Verified Live Model Logic:** [Rebora Docs Framework](https://drive.google.com/file/d/17L7zKgOQfB6XjOFE-8L37lRl0WfGSGBV/view?usp=sharing)
 *   **Uploaded File:** `test_contract.pdf` (Project Estimate 2026)
 *   **User Query:** *"What is the total project value?"*
 *   **Autonomous AI Analysis Result:** *"According to the provided document 'Rebora Construction LLC - Project Estimate 2026', the Total Project Value is $52,500."*

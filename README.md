@@ -1,4 +1,4 @@
-<!-- tags: ollama, llama3, langchain, ai agent, customer support, automation, python script, github, open source -->
+<!-- tags: ollama, llama3, rag, pdf analyst, enterprise software, streamlit app, python, document analysis, local ai -->
 # autonomous-ai-corporate-archivist
 # Autonomous AI Corporate Archivist & RAG Analyst (Python & Streamlit)
 
